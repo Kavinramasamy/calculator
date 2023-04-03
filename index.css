@@ -1,0 +1,15 @@
+table{
+    display: flex;
+    justify-content: center;
+    background-color:cadetblue;
+    padding: 20%;
+}
+td{
+padding: 2px;
+background-color: white ;
+
+}
+h1{
+    text-align: center;
+    color: cadetblue;
+}
